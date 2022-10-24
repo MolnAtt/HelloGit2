@@ -16,6 +16,7 @@ namespace HelloGit
 			Console.WriteLine("Hello Git megint");
 			Console.WriteLine("hali");
 			Console.WriteLine("szöveg");
+			Console.WriteLine("második szöveg");
 		}
 	}
 }
