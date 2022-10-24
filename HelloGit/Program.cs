@@ -11,6 +11,7 @@ namespace HelloGit
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello git!");
+			Console.WriteLine("új dolog");
 		}
 	}
 }
