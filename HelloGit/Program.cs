@@ -14,6 +14,8 @@ namespace HelloGit
 			Console.WriteLine("új dolog");
 			Console.WriteLine("otthon csináltam");
 			Console.WriteLine("Hello Git megint");
+			Console.WriteLine("hali");
+			Console.WriteLine("szöveg");
 		}
 	}
 }
